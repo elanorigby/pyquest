@@ -1,8 +1,8 @@
 Pieces of scramble:
-- for loop
-- len()
-- list
-- list.append()
+x for loop
+x len()
+x list
+x list.append()
 - random.choice()
 - range() and using it to make a list
 -  
